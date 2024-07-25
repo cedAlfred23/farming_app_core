@@ -1,0 +1,10 @@
+asgiref == 
+Django == 
+django-cors-headers == 
+djangorestframework == 
+django-environ == 
+djangorestframework-simplejwt == 
+PyJWT == 
+pytz == 
+sqlparse == 
+tzdata == 
